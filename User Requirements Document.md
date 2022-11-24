@@ -8,4 +8,16 @@ Date: 17/10/2022
 |---|---|---|
 |Post/Rank|| |
 
+## Revision History
+|Revision No. |Date|Pages/Section Revised|Remarks|
+|-----|----|------------------|-------|
+|1    |17/10/2022|                  |       |
+|     |    |                  |       |
 
+## Distribution List
+|Name|Post/Rank|B/D|Date|
+|-----|----|------------------|-------|
+|    ||                  |       |
+|     |    |                  |       |
+|    ||                  |       |
+|     |    |                  |       |
