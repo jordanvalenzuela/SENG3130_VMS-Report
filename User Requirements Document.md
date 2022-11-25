@@ -27,11 +27,11 @@ Date: 17/10/2022
 Revision History	2\
 Distribution List	2
 
-1.	**INTRODUCTION**	5\
-1.1.	PURPOSE	5\
-1.2.	PROJECT BACKGROUND	5\
-1.3.	BUSINESS OBJECTIVES	5\
-1.4.	PROJECT SCOPE	5\
+1.	[**INTRODUCTION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#1-introduction)	5\
+1.1.	[PURPOSE](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#11-purpose)	5\
+1.2.	[PROJECT BACKGROUND](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#12-project-background)	5\
+1.3.	[BUSINESS OBJECTIVES](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#13-business-objectives)	5\
+1.4.	[PROJECT SCOPE](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#14-project-scope)	5\
 1.5.	PROJECT OBJECTIVES	5
 2.	**IDENTIFIED RISKS AND ASSUMPTIONS** 6\
 2.1.	Identified Risks	6\
@@ -95,7 +95,74 @@ The list of identified risks for the project is shown below:\
 Table I - Identified Risks Related to Requirements
 |No.|Risk Description|Likelihood (High/Medium/Low/Rare)|Impact Description (Cost, Schedule,Scope, Quality, or Others)|Risk Rating|Possible Resolutions & Mitigations|Risk Owner|
 |---|---|---|---|---|---|---|
-|1.|||||||
-|2.|||||||
-|3.|||||||
-|4.|||||||
+|1.|The senior may not give consent to collecting their information|Medium||High|||
+|2.|The number of senior cases may be less than what we expected|Low||Low|||
+|3.|Even with the new system, the number of volunteer applications may not be enough to meet the needs of the city|Medium||High|||
+|4.|The server may crash, losing all clientele information and causing a shortage of volunteers|Very Low||High|The system can retrieve data from the last backup|All direct users|
+### 2.2 ASSUMPTIONS
+The identified assumptions are listed below:\
+1. The automated Police Background Checking System will be available in a few months.  
+2. The system will result in a lower crime rate as a result of ethical job opportunities.  
+3. There will be business sponsors that will offer promotions, especially for volunteers.
+## 3 PROPOSED SYSTEM OVERVIEW
+### 3.1 DESCRIPTION OF PROPOSED VOLUNTEER MANAGEMENT SYSTEM
+A sample of Context Diagram for the project is shown below:\
+![User_Req_ContextDiagram](https://user-images.githubusercontent.com/113567393/203883828-326d43ec-b93d-4dd2-8442-1dd2bdd5aa42.png)\
+**Figure 1 - Context Diagram of Volunteer Management System**
+### 3.2 SYSTEM USER PROFILE
+A sample of System User Profile for the project is shown below:\
+Table II - System User Profile
+|No.|User Role|Responsibilities|Branch/Division/Section/Unit|Staff Post/Rank|Stakeholder Group|
+|---|---|---|---|---|---|
+|1.||Responsible for reporting senior’s health and social status|||Volunteers|
+|2.||Responsible for approving volunteers; Responsible for overseeing the progress of senior cases |||Volunteer Administrator|
+|3.||Responsible for submitting senior cases into the system|Ministry of Health||SPCC Employees|
+|4.||Responsible for submitting requests for further education assistance|School District||School Administrator|
+## 4 FUTURE BUSINESS PROCESS
+### 4.1 LIST OF FUTURE BUSINESS PROCESS
+Table III - List of Future Business Processes for the Volunteer Management System
+|Process ID|Business Process Title|
+|---|---|
+|BP-001|Creation of New Volunteer|
+|BP-002|Update of Volunteer Record|
+|BP-003||
+|BP-004||
+|BP-005||
+|BP-006||
+|BP-007||
+### 4.2 BP001-CREATION OF NEW VOLUNTEER
+## 4.2.1 PROCESS DESCRIPTION FOR CREATION OF NEW VOLUNTEER RECORD
+Table IV - Process Description for Creation of New Volunteer
+|Task No.|Actor|Task Name and Description|Input|Output|
+|---|---|---|---|---|
+|1|Volunteer||||
+|2|||||
+|3|||||
+|4|||||
+
+Table V - More Information for Creation of New Volunteer
+|Other Information||
+|---|---|
+|References||
+|Assumptions||
+|Business Rules||
+## 5 FUNCTIONAL REQUIREMENTS
+### 5.1 LIST OF FUNCTIONAL REQUIREMENTS
+Table VI - List of Functional Requirements
+|Req. ID|Requirement Title|Target Users|Priority (M=must; S=should; C=could; W=won’t)|
+|---|---|---|---|
+|REQ-CRE-000: Creation of New Volunteer Record||||
+|REQ-CRE-001||||
+|REQ-UPD-000: Update of Volunteer Record||||
+|||||
+### 5.2 REQ-CRE-000 CREATION OF NEW VOLUNTEER
+Table VI - Requirement Description (REQ-CRE-001)
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-CRE-001|
+|Requirement Title|Create a new volunteer|
+|Priority|Must|
+|Functional Requirement Description|1. Volunteer gets approved to perform service <br/> 2. Volunteer creates an account with username, password, and basic information (full name, address, date of birth, etc.) <br/> 3. Volunteer agrees to Terms and Conditions <br/> 4. Volunteer puts in profile picture <br/> 5. Volunteer enters in favorable activities <br/> 6. List of available cases are displayed for volunteer to choose from|
+|Frequency of Use||
+|Acceptance of Criteria||
+|Related Business Process|Refer to [BP-001](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#42-bp001-creation-of-new-volunteer).|
