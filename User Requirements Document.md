@@ -32,40 +32,40 @@ Distribution List	2
 1.2.	[PROJECT BACKGROUND](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#12-project-background)	5\
 1.3.	[BUSINESS OBJECTIVES](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#13-business-objectives)	5\
 1.4.	[PROJECT SCOPE](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#14-project-scope)	5\
-1.5.	PROJECT OBJECTIVES	5
-2.	**IDENTIFIED RISKS AND ASSUMPTIONS** 6\
-2.1.	Identified Risks	6\
-2.2.	Assumptions	7
-3.	**PROPOSED SYSTEM OVERVIEW**	7\
-3.1.	DESCRIPTION OF PROPOSED VOLUNTEER MANAGEMENT SYSTEM	7\
-3.2.	SYSTEM USER PROFILE	8
-4.	**FUTURE BUSINESS PROCESS** 9\
- 4.1 LIST OF FUTURE BUSINESS PROCESS 9\
- 4.2 BP001-CREATION OF NEW VOLUNTEER 9\
- 4.2.1 PROCESS DESCRIPTION FOR CREATION OF NEW VOLUNTEER RECORD 9
-5. **FUNCTIONAL REQUIREMENTS** 10\
- 5.1 LIST OF FUNCTIONAL REQUIREMENTS 10\
- 5.2 REQ-CRE-000 CREATION OF NEW VOLUNTEER 10
-6. **NON-FUNCTIONAL REQUIREMENTS** 11\
- 6.1 LIST OF NON-FUNCTIONAL REQUIREMENTS 11\
- 6.2 AUDIT, CONTROL, & SECURITY REQUIREMENTS 12\
-  6.2.1 REQ-ASC1 System Audit 12\
-  6.2.2 REQ-ASC2 System Control 12\
-  6.2.3 REQ-ASC3 System Security 13\
-  6.2.4 REQ-ASC4 Backup and Recovery Requirements 13\
-  6.2.5 REQ-ASC5 Disaster Recovery Requirements 14\
-  6.2.6 REQ-ASC6 Privacy Requirements 14\
- 6.3 DATA REQUIREMENTS 15\
- 6.3.1 REQ-DAR1 Global Data Requirements 15\
- 6.3.2 REQ-DAR2 Key Data Requirements 15\
- 6.4 USABILITY REQUIREMENTS 16\
- 6.4.1 REQ-USR1 General Usability Requirements 16\
- 6.5 SERVICE LEVEL TARGETS 16\
- 6.5.1 REQ-SLT1 System Availability 16   
- 6.5.2 REQ-SLT2 System Performance 17\
- 6.6 DATA GROWTH AND RETENTION REQUIREMENTS 17\
- 6.6.1 REQ-DGR1 Data Growth and Retention Requirements 17
- 7. **SYSTEM IMPLEMENTATION CONSIDERATION** 18\
+1.5.	[PROJECT OBJECTIVES](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#15-project-objectives)	5
+2.	[**IDENTIFIED RISKS AND ASSUMPTIONS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#2-identified-risks-and-assumptions) 6\
+2.1.	[Identified Risks](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#21-identified-risks)	6\
+2.2.	[Assumptions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#22-assumptions)	7
+3.	[**PROPOSED SYSTEM OVERVIEW**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#3-proposed-system-overview)	7\
+3.1.	[DESCRIPTION OF PROPOSED VOLUNTEER MANAGEMENT SYSTEM](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#31-description-of-proposed-volunteer-management-system)	7\
+3.2.	[SYSTEM USER PROFILE](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#32-system-user-profile)	8
+4.	[**FUTURE BUSINESS PROCESS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#4-future-business-process) 9\
+ 4.1 [LIST OF FUTURE BUSINESS PROCESS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#41-list-of-future-business-process) 9\
+ 4.2 [BP001-CREATION OF NEW VOLUNTEER](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#42-bp001-creation-of-new-volunteer) 9\
+ 4.2.1 [PROCESS DESCRIPTION FOR CREATION OF NEW VOLUNTEER RECORD](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#421-process-description-for-creation-of-new-volunteer-record) 9
+5. [**FUNCTIONAL REQUIREMENTS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#5-functional-requirements) 10\
+ 5.1 [LIST OF FUNCTIONAL REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#51-list-of-functional-requirements) 10\
+ 5.2 [REQ-CRE-000 CREATION OF NEW VOLUNTEER](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#52-req-cre-000-creation-of-new-volunteer) 10
+6. [**NON-FUNCTIONAL REQUIREMENTS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#6-non-functional-requirements) 11\
+ 6.1 [LIST OF NON-FUNCTIONAL REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#61-list-of-non-functional-requirements) 11\
+ 6.2 [AUDIT, CONTROL, & SECURITY REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#62-audit-control--security-requirements) 12\
+  6.2.1 [REQ-ASC1 System Audit](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#621-req-acs1-system-audit) 12\
+  6.2.2 [REQ-ASC2 System Control](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#622-req-acs2-system-control) 12\
+  6.2.3 [REQ-ASC3 System Security](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#623-req-acs3-system-security) 13\
+  6.2.4 [REQ-ASC4 Backup and Recovery Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#624-req-acs4-system-backup-and-recovery-requirements) 13\
+  6.2.5 [REQ-ASC5 Disaster Recovery Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#625-req-acs5-disaster-recovery-requirements) 14\
+  6.2.6 [REQ-ASC6 Privacy Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#626-req-acs6-privacy-requirements) 14\
+ 6.3 [DATA REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#63-data-requirements) 15\
+ 6.3.1 [REQ-DAR1 Global Data Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#631-req-dar1-global-data-requirements) 15\
+ 6.3.2 [REQ-DAR2 Key Data Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#632-req-dar2-key-data-requirements) 15\
+ 6.4 [USABILITY REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#64-usability-requirements) 16\
+ 6.4.1 [REQ-USR1 General Usability Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#641-req-usr1-general-usability-requirements) 16\
+ 6.5 [SERVICE LEVEL TARGETS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#65-service-level-targets) 16\
+ 6.5.1 [REQ-SLT1 System Availability](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#651-req-slt1-system-availablity) 16   
+ 6.5.2 [REQ-SLT2 System Performance](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#652-req-slt2-system-performance) 17\
+ 6.6 [DATA GROWTH AND RETENTION REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#66-service-level-targets) 17\
+ 6.6.1 [REQ-DGR1 Data Growth and Retention Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#661-req-dgr1-data-growth-and-retention-requirements) 17
+ 7. [**SYSTEM IMPLEMENTATION CONSIDERATION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#7-system-implementation-consideration) 18
 ## 1 Introduction
 ### 1.1 PURPOSE
 This document defines the user requirements for the new Volunteer Management System for the city.  The information stated in this document will be used as the basis for subsequent development activities including design, implementation, testing, and post-implementation review.
@@ -131,7 +131,7 @@ Table III - List of Future Business Processes for the Volunteer Management Syste
 |BP-006||
 |BP-007||
 ### 4.2 BP001-CREATION OF NEW VOLUNTEER
-## 4.2.1 PROCESS DESCRIPTION FOR CREATION OF NEW VOLUNTEER RECORD
+#### 4.2.1 PROCESS DESCRIPTION FOR CREATION OF NEW VOLUNTEER RECORD
 Table IV - Process Description for Creation of New Volunteer
 |Task No.|Actor|Task Name and Description|Input|Output|
 |---|---|---|---|---|
@@ -166,3 +166,154 @@ Table VI - Requirement Description (REQ-CRE-001)
 |Frequency of Use||
 |Acceptance of Criteria||
 |Related Business Process|Refer to [BP-001](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#42-bp001-creation-of-new-volunteer).|
+## 6 NON-FUNCTIONAL REQUIREMENTS
+### 6.1 LIST OF NON-FUNCTIONAL REQUIREMENTS
+Table VII - List of Non-Functional Requirements
+|Req. ID|Category|Requirement Title|Target Users|Priority|
+|---|---|---|---|---|
+|REQ-ACS1|Audit, Control, & Security|System Audit|||
+|REQ-ACS2|Audit, Control, & Security|System Control|||
+|REQ-ACS3|Audit, Control, & Security|System Security|||
+|REQ-ACS4|Audit, Control, & Security|Backup and Recovery Requirements|||
+|REQ-ACS5|Audit, Control, & Security|Disaster Recovery Requirements|||
+|REQ-ACS6|Audit, Control, & Security|Privacy Requirements|||
+|REQ-DAR1|Data Requirements|Global Data Requirements|||
+|REQ-DAR2|Data Requirements|Key Data Requirements|||
+|REQ-USR1|Usability Requirements|General Usability Requirements|||
+|REQ-SLT1|Service Level Targets|System Availability|||
+|REQ-SLT2|Service Level Targets|System Performance|||
+
+### 6.2 AUDIT, CONTROL & SECURITY REQUIREMENTS
+#### 6.2.1 REQ-ACS1 SYSTEM AUDIT
+Table IX - REQ-ACS1 System Audit
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS1|
+|Category|Audit, Control & Security|
+|Requirement Title|System Audit|
+|Priority|Must (except for those specially specified)|
+|Non-Functional Requirement Description|The System shall provide audit trail functionalities which include: <br/> 1. Keep record of user login/logout information, e.g. unsuccessful login attempts, login and logout times, etc.; <br/> 2. Keep record of user profile information such as creation/update/deletion of a user, post/rank, user group belonged to, etc.; <br/> 3. Keep detailed record of the audit trail, which shall include user ID, functions performed, etc.; <br/> 4. Provide facilities to authorized users to allow them to print out audit trails and log records to screen or printer|
+
+#### 6.2.2 REQ-ACS2 System Control
+Table X - REQ-ACS2 System Control
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS2|
+|Category|Audit, Control & Security|
+|Requirement Title|System Control|
+|Priority|Must (except for those specially specified)|
+|Non-Functional Requirement Description|1. User must create a unique username and password to log-in to the system <br/> 2. System administration functions should be defined in a separate function menu and separated from other normal user functions <br/> 3. Users should be disallowed to click into menu items in which no access rights are granted|
+
+#### 6.2.3 REQ-ACS3 System Security
+Table XI - REQ-ACS3 System Security
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS3|
+|Category|Audit, Control & Security|
+|Requirement Title|System Security|
+|Priority|Must (except for those specially specified)|
+|Non-Functional Requirement Description|1. User must create a unique username and password to log-in to the system <br/> 2. System administration functions should be defined in a separate function menu and separated from other normal user functions <br/> 3. Users should be disallowed to click into menu items in which no access rights are granted|
+
+#### 6.2.4 REQ-ACS4 System Backup and Recovery Requirements
+Table XII - REQ-ACS4 System Backup and Recovery Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS4|
+|Category|Audit, Control & Security|
+|Requirement Title|System Backup and Recovery Requirements|
+|Priority|Must (except for those specially specified)|
+|Non-Functional Requirement Description|1. The System shall provide daily and monthly system and data backup. <br/> 2. The backup shall be performed and completed at midnight <br/> 3. The total lead time for system recovery (in case of system failure) shall not exceed 6 hours with no loss of completed transactional data.|
+
+#### 6.2.5 REQ-ACS5 Disaster Recovery Requirements
+Table XIII - REQ-ACS5 Disaster Recovery Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS5|
+|Category|Audit, Control & Security|
+|Requirement Title|Disaster Recovery Requirements|
+|Priority|Must|
+|Non-Functional Requirement Description|1. The system should have an effective solution for resilience and disaster recovery. <br/> 2. In case of total system loss, the system shall be recovered by restoring the latest system backup within 6 hours.|
+
+#### 6.2.6 REQ-ACS6 Privacy Requirements
+Table XIV - REQ-ACS6 Privacy Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-ACS6|
+|Category|Audit, Control & Security|
+|Requirement Title|Privacy Requirements|
+|Priority|Must|
+|Non-Functional Requirement Description||
+
+### 6.3 DATA REQUIREMENTS
+#### 6.3.1 REQ-DAR1 GLOBAL DATA REQUIREMENTS
+Table XV - REQ-DAR1 Global Data Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-DAR1|
+|Category|Data Requirements|
+|Requirement Title|Global Data Requirements|
+|Priority|Must|
+|Non-Functional Requirement Description|1. All passwords must allow input of symbols including *, $, #, &, … <br/> 2. All “date” data to be recorded by the system actually represents the date and time.|
+
+#### 6.3.2 REQ-DAR2 KEY DATA REQUIREMENTS
+Table XVI - REQ-DAR2 Key Data Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-DAR2|
+|Category|Data Requirements|
+|Requirement Title|Global Data Requirements|
+|Priority|Must|
+
+Table XVII - Non-Functional Requirement Description
+|Data Group|Data Required|Source|
+|---|---|---|
+|Volunteer|Name <br/> Date of Birth|Input by Volunteer|
+|Senior|Name <br/> Address|Input by SPCC Employee|
+
+### 6.4 USABILITY REQUIREMENTS
+#### 6.4.1 REQ-USR1 GENERAL USABILITY REQUIREMENTS
+Table XVIII - REQ-USR1 General Usability Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-USR1|
+|Category|Usability Requirements|
+|Requirement Title|General Usability Requirements|
+|Priority|Must|
+|Non-Functional Requirement Description|The system should meet the following usability requirements: <br/> 1. System messages, error messages, etc. shown in the user interface should be clear, direct, consistent, meaningful, and easy to understand. <br/> 2. User actions should be consistent, e.g. for actions that cannot be undone, should always ask for user confirmation and allow users to cancel.|
+
+### 6.5 SERVICE LEVEL TARGETS
+#### 6.5.1 REQ-SLT1 SYSTEM AVAILABLITY
+Table XIX - REQ-SLT1 System Availability
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-USR1|
+|Category|Service Level Targets|
+|Requirement Title|System Availablity|
+|Priority|Must|
+|Non-Functional Requirement Description|The system should meet the following usability requirements: <br/> 1. The system needs to provide service with a high availability of 99.5% during normal working hours (i.e. from 8:00 am to 6:30 pm Monday to Friday and from 9:00 am to 5:00 pm on weekends) <br/> 2. Maintenance can be done any time after normal working hours <br/> 3. Data tolerance or loss can only be allowed for the current working day.|
+
+#### 6.5.2 REQ-SLT2 SYSTEM PERFORMANCE
+Table XX - REQ-SLT2 System Performance
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-SLT2|
+|Category|Service Level Targets|
+|Requirement Title|System Performance|
+|Priority|Must|
+|Non-Functional Requirement Description|The system should meet the following usability requirements: <br/> 1. 4 seconds for 99.5% of requests for data reports and updates.|
+
+### 6.6 SERVICE LEVEL TARGETS
+#### 6.6.1 REQ-DGR1 DATA GROWTH AND RETENTION REQUIREMENTS
+Table XXI - REQ-DGR1 Data Growth and Retention Requirements
+|Item|Description|
+|---|---|
+|Requirement ID|REQ-DGR1|
+|Category|Data Growth and Retention Requirements|
+|Requirement Title|Data Growth and Retention Requirements|
+|Priority|Must|
+|Non-Functional Requirement Description|The system should meet the following usability requirements: <br/> 1. The expected annual growth rate of data is about 5%. <br/> 2. Daily audit logs shall be removed from the system after every other conducting backup|
+
+## 7 SYSTEM IMPLEMENTATION CONSIDERATION
+1. The proposed system is expected to be ready for use by APR 2023.
+2. As there is no existing automatic system, no system migration is required and no data conversion is required.  But pre-loading of code tables such as user profiles are required before system release.
+3. A few sessions of classroom training for staff in the SPCC and other Volunteer Administrators, School Administrators, and authorized Holders are required.
