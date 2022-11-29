@@ -7,26 +7,25 @@
 
 ### Table of Contents
 
-Table of Contents	ii\
-Revision History	ii
-1.	Business Requirements	1\
-1.1.	Background	1\
-1.2.	Business Opportunity	1\
-1.3.	Business Objectives and Success Criteria	1\
-1.4.	Customer or Market Needs	1\
-1.5.	Business Risks	1
-2.	Vision of the Solution	2\
-2.1.	Vision Statement	2\
-2.2.	Major Features	2\
-2.3.	Assumptions and Dependencies	2
-3.	Scope and Limitations	2\
-3.1.	Scope of Initial Release	2\
-3.2.	Scope of Subsequent Releases	2\
-3.3.	Limitations and Exclusions	3
-4.	Business Context	3\
-4.1.	Stakeholder Profiles	3\
-4.2.	Project Priorities	4\
-4.3.	Operating Environment	4
+[Revision History](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#revision-history)	i
+1.	[Business Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#1-business-requirements)	1\
+1.1.	[Background](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#11-background)	1\
+1.2.	[Business Opportunity](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#12-business-opportunity)	1\
+1.3.	[Business Objectives and Success Criteria](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#13-business-objectives)	1\
+1.4.	[Customer or Market Needs](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#14-customer-or-market-needs)	1\
+1.5.	[Business Risks](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#15-business-risks)	1
+2.	[Vision of the Solution](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#2-vision-of-the-solution)	2\
+2.1.	[Vision Statement](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#21-vision-statement)	2\
+2.2.	[Major Features](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#22-major-features)	2\
+2.3.	[Assumptions and Dependencies](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#23-assumptions-and-dependencies)	2
+3.	[Scope and Limitations](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#3-scope-and-limitations)	2\
+3.1.	[Scope of Initial Release](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#31-scope-of-initial-release)	2\
+3.2.	[Scope of Subsequent Releases](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#32-scope-of-subsequent-releases)	2\
+3.3.	[Limitations and Exclusions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#33-limitations-and-exclusions)	3
+4.	[Business Context](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#4-business-context)	3\
+4.1.	[Stakeholder Profiles](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#41-stakeholder-profiles)	3\
+4.2.	[Project Priorities](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#42-project-priorities)	4\
+4.3.	[Operating Environment](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Vision%20and%20Scope%20Document.md#43-operating-environment)	4
 
 ## Revision History
 |Name |Date|Reason for Changes|Version|
@@ -55,7 +54,7 @@ BO-3: Reduce assignment time by 30% - Seniors should get volunteer services with
 * Past: 10 days
 * Goal: 3 days or less
 
-#### **Success Criteria**
+**Success Criteria**  
 SM-1: In the first year, 60% of senior cases within the city should be tracked\
 SM-2: In the first year, 85% of reported cases should receive support from the system\
 SM-3: The margin of error or sudden alarm (of volunteer shortage) should be kept to less than 2 times per year
