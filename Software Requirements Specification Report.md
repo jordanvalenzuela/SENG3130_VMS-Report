@@ -7,7 +7,7 @@
 ### Table of Contents
 **Revision History** xiii
 
-1.	[**INTRODUCTION**]()	1\
+1.	[**INTRODUCTION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#1-introduction)	1\
 1.1	[Purpose]()	1\
 1.2	[Document Conventions]()	1\
 1.3	[Intended Audience and Reading Suggestions]()	1\
@@ -204,16 +204,15 @@ N/A
 ## Appendix B: Analysis Models
 <img width="574" alt="Appendix-Entity_Relationship_Diagram" src="https://user-images.githubusercontent.com/113567393/204623831-198f9468-594b-4997-96af-94957bc6ef41.PNG">
 
-**Table I: Data Dictionary
+### Table I: Data Dictionary
 |**Data Element**|**Description**|**Composition or Data Type**|**Length**|**Values**|
 |---|---|---|---|---|
-|Request for Assistance|Request for assistance|Request Information\  Requester|-||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-
+|Request for Assistance|Request for assistance|Request Information <br/> + Requester|-||
+|Volunteer Profile||+ Name <br/> + Phone Number <br/> + Age|-||
+|Volunteer Name||String alphabet|50||
+|Volunteer Password|||20|Numbers and characters (case sensitive)|
+|Client Information|Information about the senior and senior case in question|Client Profile <br/> + Name <br/> + Address <br/> + Health/Social Status <br/> + Age|-||
+|Client Name||String alphabet <br/> + First Name(s) <br/> + Middle Name <br/> + Last Name|50||
+|Client Age||Positive Integer|3|The minimum value is 0, and the maximum value is 200|
+|Client Address||+ City <br/> + Street Name <br/> + Street Number <br/> + Unit Number <br/> + Province/Territory <br/> + Country|-||
+|Status Report|Daily report sent to the volunteer administrator|Positive integer <br/> Database <br/> + Number of current senior cases <br/> + Number of forecasted cases for the next week|-|The minimum value is 0|
