@@ -8,8 +8,8 @@
 **Revision History** xiii
 
 1.	[**INTRODUCTION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#1-introduction)	1\
-1.1	[Purpose]()	1\
-1.2	[Document Conventions]()	1\
+1.1	[Purpose](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#11-purpose)	1\
+1.2	[Document Conventions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#12-document-conventions)	1\
 1.3	[Intended Audience and Reading Suggestions]()	1\
 1.4	[Product Scope]()	1\
 1.5	[References]()	1
