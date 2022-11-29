@@ -66,7 +66,7 @@ Distribution List	2
  6.6 [DATA GROWTH AND RETENTION REQUIREMENTS](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#66-service-level-targets) 17\
  6.6.1 [REQ-DGR1 Data Growth and Retention Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#661-req-dgr1-data-growth-and-retention-requirements) 17
  7. [**SYSTEM IMPLEMENTATION CONSIDERATION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/User%20Requirements%20Document.md#7-system-implementation-consideration) 18
-## 1 Introduction
+## 1 INTRODUCTION
 ### 1.1 PURPOSE
 This document defines the user requirements for the new Volunteer Management System for the city.  The information stated in this document will be used as the basis for subsequent development activities including design, implementation, testing, and post-implementation review.
 ### 1.2 PROJECT BACKGROUND
