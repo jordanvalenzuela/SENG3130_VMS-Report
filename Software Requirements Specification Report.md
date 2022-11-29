@@ -10,46 +10,46 @@
 1.	[**INTRODUCTION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#1-introduction)	1\
 1.1	[Purpose](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#11-purpose)	1\
 1.2	[Document Conventions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#12-document-conventions)	1\
-1.3	[Intended Audience and Reading Suggestions]()	1\
-1.4	[Product Scope]()	1\
-1.5	[References]()	1
-2.	[**OVERALL DESCRIPTION**]() 1\
-2.1	[Product Perspective]()	1\
-2.2	[Product Functions]()	2\
-2.3 [User Classes and Characteristics]() 2\
-2.4 [Operating Environment]() 3  
-2.5 [Design and Implementation Constraints]() 3\
-2.6 [User Documentation]() 3\
-2.7 [Assumptions and Dependencies]() 3
-3.	[**EXTERNAL INTERFACE REQUIREMENTS**]()	3\
-3.1	[User Interfaces]()	3\
-3.2	[Hardware Interfaces]()	3\
-3.3  [Software Interfaces]() 3\
-3.4  [Communication Interfaces]() 4\
-  3.4.1 [Communications with the end-users]() 4\
-  3.4.2 [Communications with the backend servers]() 4
-4.	[**SYSTEM FEATURES**]() 4\
- 4.1 [Create New Volunteers]() 4\
- 4.1.1 [Description and Priority]() 4\
- 4.1.2 [Stimulus/Response Sequences]() 4\
- 4.1.3 [Functional Requirements]() 4\
- 4.2 [Assign Volunteer]() 5\
- 4.2.1 [Description and Priority]() 5\
- 4.2.2 [Stimulus/Response Sequences]() 5\
- 4.2.3 [Functional Requirements]() 5\
- 4.3 [Generate a Daily Report]() 5\
- 4.3.1 [Description and Priority]() 5\
- 4.3.2 [Stimulus/Response Sequences]() 5\
- 4.3.3 [Functional Requirements]() 6\
-5. [**OTHER NONFUNCTIONAL REQUIREMENTS**]() 6\
- 5.1 [Performance Requirements]() 6\
- 5.2 [Safety Requirements]() 6\
- 5.3 [Security Requirements]() 6\
- 5.4 [Software Quality Attributes]() 6\
- 5.5 [Business Rules]() 6
-6. [**OTHER REQUIREMENTS**]() 7\
-Appendix A: [Glossary]() 7\
-Appendix B: [Analysis Models]() 7
+1.3	[Intended Audience and Reading Suggestions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#13-intended-audience-and-reading-suggestions)	1\
+1.4	[Product Scope](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#14-product-scope)	1\
+1.5	[References](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#15-references)	1
+2.	[**OVERALL DESCRIPTION**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#2-overall-description) 1\
+2.1	[Product Perspective](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#21-product-perspective)	1\
+2.2	[Product Functions](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#22-product-functions)	2\
+2.3 [User Classes and Characteristics](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#23-user-classes-and-characteristics) 2\
+2.4 [Operating Environment](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#24-operating-environment) 3  
+2.5 [Design and Implementation Constraints](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#25-design-and-implementation-constraints) 3\
+2.6 [User Documentation](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#26-user-documentation) 3\
+2.7 [Assumptions and Dependencies](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#27-assumptions-and-dependencies) 3
+3.	[**EXTERNAL INTERFACE REQUIREMENTS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#3-external-interface-requirements)	3\
+3.1	[User Interfaces](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#31-user-interfaces)	3\
+3.2	[Hardware Interfaces](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#32-hardware-interfaces)	3\
+3.3  [Software Interfaces](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#33-software-interfaces) 3\
+3.4  [Communication Interfaces](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#34-communications-interfaces) 4\
+  3.4.1 [Communications with the end-users](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#341-communications-with-the-end-users) 4\
+  3.4.2 [Communications with the backend servers](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#342-communications-with-the-backend-servers) 4
+4.	[**SYSTEM FEATURES**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#4-system-features) 4\
+ 4.1 [Create New Volunteers](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#41-create-new-volunteers) 4\
+ 4.1.1 [Description and Priority](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#411-description-and-priority) 4\
+ 4.1.2 [Stimulus/Response Sequences](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#412-stimulusresponse-sequences) 4\
+ 4.1.3 [Functional Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#413-functional-requirements) 4\
+ 4.2 [Assign Volunteer](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#42-assign-volunteer) 5\
+ 4.2.1 [Description and Priority](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#421-description-and-priority) 5\
+ 4.2.2 [Stimulus/Response Sequences](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#422-stimulusresponse-sequences) 5\
+ 4.2.3 [Functional Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#423-functional-requirements) 5\
+ 4.3 [Generate a Daily Report](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#43-generate-a-daily-report) 5\
+ 4.3.1 [Description and Priority](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#431-description-and-priority) 5\
+ 4.3.2 [Stimulus/Response Sequences](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#432-stimulusresponse-sequences) 5\
+ 4.3.3 [Functional Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#433-functional-requirements) 6
+5. [**OTHER NONFUNCTIONAL REQUIREMENTS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#5-other-nonfunctional-requirements) 6\
+ 5.1 [Performance Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#51-performance-requirements) 6\
+ 5.2 [Safety Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#52-safety-requirements) 6\
+ 5.3 [Security Requirements](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#53-security-requirements) 6\
+ 5.4 [Software Quality Attributes](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#54-software-quality-attributes) 6\
+ 5.5 [Business Rules](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#55-business-rules) 6
+6. [**OTHER REQUIREMENTS**](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#6-other-requirements) 7\
+Appendix A: [Glossary](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#appendix-a-glossary) 7\
+Appendix B: [Analysis Models](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#appendix-b-analysis-models) 7
 
 ## Revision History
 |Name|Date|Reason for Changes|Version|
@@ -112,7 +112,7 @@ Operating environment for the volunteer management system is as listed below.
 The VMS website provides an insight of its purpose and function for users.\
 Help links, FAQs, and a search bar are provided for the user in case of further inquiries.
 ### 2.7 Assumptions and Dependencies
-Refer to the Vision and Scope Document
+Refer to the [Vision and Scope Document](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/blob/main/Vision%20and%20Scope%20Document.md#23-assumptions-and-dependencies)
 
 ## 3 External Interface Requirements
 ### 3.1 User Interfaces
@@ -140,7 +140,7 @@ this feature is of High priority.
 #### 4.1.2 Stimulus/Response Sequences
 * Once a volunteer has been approved by the volunteer administrator, the system will notify the volunteer using their contact information such as email
 * The volunteer shall create an account using their basic information (such as name, date of birth, address, etc.), contact information (i.e. phone number, email address), their chosen account password, and their preferred volunteer work type into the system. The system will store this information and create their profile.
-#### 4.1.3 Funcitonal Requirements
+#### 4.1.3 Functional Requirements
     REQ-1: The Volunteer Administrator shall be able to submit an applicant’s information into the system
     REQ-2:	The system shall be able to send the applicant’s information to the Police Background Check System for screening
     REQ-3:	The system shall receive the results of the volunteer background check from the Background Check System
@@ -155,7 +155,7 @@ senior case or a student case job; this feature is of High priority.
 #### 4.2.2 Stimulus/Response Sequences
 * Once a volunteer has created an account, they may view the system’s postings of request for senior assistance or student assistance which may be based on their preferred volunteer work
 * Once a volunteer has chosen the job they want to do, the system shall make sure that job cannot be chosen by another volunteer.  In the case of a senior, the system shall notify the SPCC that a volunteer will assist the senior in question.  The system shall allow the volunteer to edit the senior’s health and social status. 
-#### 4.2.3 Funcitonal Requirements
+#### 4.2.3 Functional Requirements
     REQ-1:	The SPCC shall be able to make a request for senior assistance in the system
     REQ-2:	The volunteer shall be able to view the list of ongoing requests for assistance
     REQ-3:	The volunteer shall be able to choose from the list of ongoing requests for assistance
@@ -170,7 +170,7 @@ The volunteer management system shall create a report which includes the forecas
 #### 4.3.2 Stimulus/Response Sequences
 * Once a volunteer has been approved by the volunteer administrator, the system will notify the volunteer using their contact information such as email
 * The volunteer shall create an account using their basic information (such as name, date of birth, address, etc.), contact information (i.e. phone number, email address), their chosen account password, and their preferred volunteer work type into the system. The system will store this information and create their profile. 
-#### 4.3.3 Funcitonal Requirements
+#### 4.3.3 Functional Requirements
     REQ-1:	The system shall be able to calculate the number of senior cases for the next week by midnight each day
     REQ-2:	The system shall be able to send a daily case report to the volunteer administrator and the Mayor everyday
 ## 5 Other Nonfunctional Requirements
@@ -191,7 +191,7 @@ NFR-3: The VMS should be up and running for 99.5% of work hours\
 NFR-4: The VMS should experience no more than 2 failures every year\
 NFR-5: The background check system shall process background checks at a rate of 1000 per hour_
 ### 5.5 Business Rules
-Refer to System Features
+Refer to [System Features](https://github.com/jordanvalenzuela/SENG3130_VMS-Report/edit/main/Software%20Requirements%20Specification%20Report.md#4-system-features)
 ## 6 Other Requirements
 N/A
 ## Appendix A: Glossary
